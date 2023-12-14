@@ -1,2 +1,9 @@
 Hallo apa kabar?
-latihan saja
+Latihan saja buat tugas
+
+public class Main {
+  public static void main(String[] args) {
+    String name = "Latihan saja";
+    System.out.println(name);
+  }
+}
