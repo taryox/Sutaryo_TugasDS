@@ -1,3 +1,9 @@
 Hallo apa kabar?
 Latihan saja buat tugas
-Selesai
+
+public class Main {
+  public static void main(String[] args) {
+    String name = "Latihan saja";
+    System.out.println(name);
+  }
+}
